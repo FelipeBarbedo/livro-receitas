@@ -4,7 +4,9 @@
 
 
 
-## Lista de comidas que encontrara aqui:
+## Lista de comidas:
 
-* [Arroz branco](/receitas/ArrozBranco.md)
+* [Arroz branco](receitas//ArrozBranco.md)
+* [Feijão preto](receitas//FeijaoPreto.md)
+* [Peito de frango grelhado](receitas//PeitoFrangoGrelhado.md)
 
